@@ -6,13 +6,10 @@ Welcome to my portfolio repository! I am Mahmmed Umar Faaruk, a passionate and d
 ## Education
 - Bachelor of Technology in Computer Science and Engineering (AI-ML)
   Sreyas Institute of Engineering and Technology, Hyderabad (2022-2025)  
-  CGPA: 6.14 (as per 3-year second semester)
 - Diploma in Civil Engineering  
   Anurag Engineering College, Kodad (2019-2022)  
-  Percentage: 56.4%
 - Higher Education 
-  Srujana High School, Suryapet  
-  Percentage: 8.7%
+  Srujana High School, Suryapet  (2019)
 
 ## Projects
 ### Design of Multi-Storeyed Building (2021)
