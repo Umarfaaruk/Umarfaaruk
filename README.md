@@ -14,7 +14,7 @@
 
 <!-- ====================== SOCIAL BADGES ====================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmmedumar-faaruk" target="_blank">
+  <a href="[https://www.linkedin.com/in/mahmmedumar-faaruk](https://www.linkedin.com/in/mahmmed-umar-faaruk/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Umarfaaruk" target="_blank">
